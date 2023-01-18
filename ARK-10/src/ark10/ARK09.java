@@ -1,4 +1,3 @@
-
 package ark10;
 
 public class ARK09 {
@@ -7,5 +6,4 @@ public class ARK09 {
         NewJFrame frame = new NewJFrame();
         frame.setVisible(true);
     }
-    
 }

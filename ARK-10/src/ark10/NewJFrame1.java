@@ -31,7 +31,7 @@ public class NewJFrame1 extends javax.swing.JFrame {
         jtxt = new javax.swing.JLabel();
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
-        setTitle("Carros");
+        setTitle("ARK 10");
         setResizable(false);
 
         LimparCampos2.setFont(new java.awt.Font("Times New Roman", 0, 15)); // NOI18N

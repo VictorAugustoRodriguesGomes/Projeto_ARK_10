@@ -174,7 +174,7 @@ public class NewJFrame extends javax.swing.JFrame {
         jLabel11 = new javax.swing.JLabel();
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
-        setTitle("Carros");
+        setTitle("ARK 10");
         setResizable(false);
 
         jPanel1.setBackground(new java.awt.Color(204, 204, 204));

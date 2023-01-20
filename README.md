@@ -4,6 +4,8 @@
 
 Os projetos nomeados ARK são uma aplicação desenvolvida em Java na IDE NetBeans. O objetivo é desenvolver um projeto partindo de listas de exercícios encontrados na Internet, seriam projetos mais simples.
 
+Ark 10 é um projeto que gerencia uma locadora de veículos, por meio de uma interface gráfica o usuário poderá estar realizando o cadastro de veículos, cedendo somente as informações solicitadas pelo sistema, com isso, o usuário também pode visualizar as informações cadastradas de todos os veículos da locadora, está realizando a alteração de certas dados dos veículos cadastrados, verificar e calcular caso haja algum veículo que possui multa por atraso na locação e calcular o valor total da locação dos veículos cadastrados.
+
 Ark 10 é um projeto que 
 
 </br>

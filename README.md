@@ -19,7 +19,7 @@ Ark 10 é um projeto que gerencia uma locadora de veículos, por meio de uma int
 <img src="https://github.com/VictorAugustoRodriguesGomes/Projeto_ARK_10_Java/blob/main/img/projeto/p8.png?raw=true" width="400"/>
 <img src="https://github.com/VictorAugustoRodriguesGomes/Projeto_ARK_10_Java/blob/main/img/projeto/p9.png?raw=true" width="400"/>
 <img src="https://github.com/VictorAugustoRodriguesGomes/Projeto_ARK_10_Java/blob/main/img/projeto/p10.png?raw=true" width="400"/>
-<img src="https://github.com/VictorAugustoRodriguesGomes/Projeto_ARK_10_Java/blob/main/img/projeto/p11.png?raw=true" width="79.5%"/>
+<img src="https://github.com/VictorAugustoRodriguesGomes/Projeto_ARK_10_Java/blob/main/img/projeto/p11.png?raw=true" width="805"/>
 </div>
 
 # Pré-requisitos
